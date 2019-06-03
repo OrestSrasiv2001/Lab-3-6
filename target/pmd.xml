@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.8.0" timestamp="2019-04-11T11:08:48.386">
+<file name="C:\Users\пк\eclipse-workspace\Laba3 Java\Lab4\src\main\java\ua\lviv\iot\Attraction\Child.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="51" rule="ImportFromSamePackage" ruleset="Error Prone" package="main.java.ua.lviv.iot.Attraction" class="Child" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_errorprone.html#importfromsamepackage" priority="3">
+No need to import a type that lives in the same package
+</violation>
+</file>
+<file name="C:\Users\пк\eclipse-workspace\Laba3 Java\Lab4\src\main\java\ua\lviv\iot\Attraction\Disneyland.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="51" rule="ImportFromSamePackage" ruleset="Error Prone" package="main.java.ua.lviv.iot.Attraction" class="Disneyland" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_errorprone.html#importfromsamepackage" priority="3">
+No need to import a type that lives in the same package
+</violation>
+</file>
+<file name="C:\Users\пк\eclipse-workspace\Laba3 Java\Lab4\src\main\java\ua\lviv\iot\Attraction\Karting.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="51" rule="ImportFromSamePackage" ruleset="Error Prone" package="main.java.ua.lviv.iot.Attraction" class="Karting" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_errorprone.html#importfromsamepackage" priority="3">
+No need to import a type that lives in the same package
+</violation>
+</file>
+<file name="C:\Users\пк\eclipse-workspace\Laba3 Java\Lab4\src\main\java\ua\lviv\iot\Attraction\Main.java">
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="46" rule="ImportFromSamePackage" ruleset="Error Prone" package="main.java.ua.lviv.iot.Attraction" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_errorprone.html#importfromsamepackage" priority="3">
+No need to import a type that lives in the same package
+</violation>
+<violation beginline="10" endline="10" begincolumn="1" endcolumn="51" rule="ImportFromSamePackage" ruleset="Error Prone" package="main.java.ua.lviv.iot.Attraction" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_errorprone.html#importfromsamepackage" priority="3">
+No need to import a type that lives in the same package
+</violation>
+<violation beginline="11" endline="11" begincolumn="1" endcolumn="48" rule="ImportFromSamePackage" ruleset="Error Prone" package="main.java.ua.lviv.iot.Attraction" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_errorprone.html#importfromsamepackage" priority="3">
+No need to import a type that lives in the same package
+</violation>
+</file>
+<file name="C:\Users\пк\eclipse-workspace\Laba3 Java\Lab4\src\main\java\ua\lviv\iot\Attraction\RollerCoaster.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="51" rule="ImportFromSamePackage" ruleset="Error Prone" package="main.java.ua.lviv.iot.Attraction" class="RollerCoaster" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_errorprone.html#importfromsamepackage" priority="3">
+No need to import a type that lives in the same package
+</violation>
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="52" rule="ImportFromSamePackage" ruleset="Error Prone" package="main.java.ua.lviv.iot.Attraction" class="RollerCoaster" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_errorprone.html#importfromsamepackage" priority="3">
+No need to import a type that lives in the same package
+</violation>
+</file>
+<file name="C:\Users\пк\eclipse-workspace\Laba3 Java\Lab4\src\main\java\ua\lviv\iot\DisneylandDisneylandManager\AttractionManagerImpl.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="27" rule="UnusedImports" ruleset="Best Practices" package="main.java.ua.lviv.iot.DisneylandDisneylandManager" class="AttractionManagerImpl" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'java.util.ArrayList'
+</violation>
+<violation beginline="35" endline="35" begincolumn="67" endcolumn="108" rule="UselessParentheses" ruleset="Code Style" package="main.java.ua.lviv.iot.DisneylandDisneylandManager" class="AttractionManagerImpl" method="findAttraction" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+</pmd>
